@@ -3,5 +3,5 @@
 Simple character-level bigram model to generate names using PyTorch.
 
 - Trains a weight matrix W
-- Samples names by bigram transition
+- llm with 2 hidden layers
 - Manual gradient updates
